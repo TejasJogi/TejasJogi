@@ -22,4 +22,6 @@ Here are some ideas to get you started:
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=TejasJogi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=OS&logoColor=white&color=Brightgreen)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=Brightgreen)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=Brightgreen)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=Brightgreen)
