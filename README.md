@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tejas Jogi</h1>
-<h3 align="center">A Softwre Devloper.</h3>
+<h2 align="center">A Softwre Devloper.</h2>
+
 
 <h2 align="Left">Languages And Tools</h2>
-
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
+  
 <h2 align="Left">Statistics</h2>
 
 <a href="https://github.com/TejasJogi">
@@ -14,3 +14,10 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=TejasJogi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
+<h2 align="Left">Contact me</h2>
+
+<p align="left">
+<a href="https://twitter.com/TejasJogi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TejasJogi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tejas-jogi-3b98621a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TejasJogi" height="30" width="40" /></a>
+<a href="https://instagram.com/tey_jus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="TejasJogi" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/31zcsx2np2gkdv7e5mapwhc5zuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="TejasJogi" height="30" width="40" /></a>
