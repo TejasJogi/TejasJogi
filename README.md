@@ -26,3 +26,4 @@
 <a href="https://instagram.com/tey_jus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="TejasJogi" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/31zcsx2np2gkdv7e5mapwhc5zuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="TejasJogi" height="30" width="40" /></a>
 </P>
+
