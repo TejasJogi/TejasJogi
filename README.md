@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Jogi</h1>
-<h2 align="center">Softwre Devloper.</h2>
+<h2 align="center"> I am a Softwre Devloper from India.</h2>
 
 
 <h2 align="Left">Languages And Tools</h2>
