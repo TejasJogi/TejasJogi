@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tejas Jogi</h1>
+<h1 align="center">Hi, I'm Tejas Jogi</h1>
 <h2 align="center"> I am a Softwre Devloper from India.</h2>
 
 
