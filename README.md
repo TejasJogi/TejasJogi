@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tejas Jogi.</h1>
 <h2 align="center"> I am a Softwre Devloper from India.</h2>
-<h3> Today, I am not feeling well....</h3>
+
 
 <h2 align="Left">Languages And Tools</h2>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
