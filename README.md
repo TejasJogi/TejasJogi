@@ -28,13 +28,13 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="40" height="40" alt="Heroku" /></a>
 
+ 
+ 
+### Badges
 
+<b>My GitHub Stats</b>
 
-  
-<h2 align="Left">Statistics</h2>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasJogi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/TejasJogi/github-readme-stats) 
-[![TejasJogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TejasJogi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/TejasJogi/github-readme-stats)
+<a href="http://www.github.com/TejasJogi"><img src="https://github-readme-stats.vercel.app/api?username=TejasJogi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TejasJogi's GitHub stats" /></a>
  
 
 
