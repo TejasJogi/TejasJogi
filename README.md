@@ -43,11 +43,11 @@
 
 <h2 align="Left">Contact me</h2>
 <p align="left">
-<a href="https://www.github.com/TejasJogi" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="40" /></a>
+<a href="https://www.github.com/TejasJogi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="36" height="40" /></a>
 <a href="https://linkedin.com/in/tejas-jogi-3b98621a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TejasJogi" height="36" width="40" /></a>
 <a href="https://twitter.com/TejasJogi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TejasJogi" height="36" width="40" /></a>
 <a href="https://instagram.com/tey_jus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="TejasJogi" height="36" width="40" /></a>
 <a href="https://open.spotify.com/user/31zcsx2np2gkdv7e5mapwhc5zuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="TejasJogi" height="36" width="40" /></a>
-  <a href="https://www.hackerrank.com/tejasjogi1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="TejasJogi" height="36" width="40" /></a>
+ <a href="https://www.hackerrank.com/tejasjogi1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="TejasJogi" height="36" width="40" /></a>
 </P>
 
