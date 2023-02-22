@@ -27,6 +27,7 @@
 <h3 align="Left">Other Tools :</h3>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="40" height="40" alt="Heroku" /></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
  
  
@@ -45,7 +46,8 @@
 <div width="100%" align="center"><a href="https://github.com/TejasJogi/Library-Management-System-Django-MYSQL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TejasJogi&repo=Library-Management-System-Django-MYSQL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></br>
 <a href="https://github.com/TejasJogi/Weather-Forcast-API-Using-ZIPCode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TejasJogi&repo=Weather-Forcast-API-Using-ZIPCode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></br>
 <a href="https://github.com/TejasJogi/Authentication-API-Django-MongoDB" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TejasJogi&repo=Authentication-API-Django-MongoDB&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div></br></br></br></br></br></br></br></br></br>
+<a href="https://github.com/TejasJogi/Python-Problems" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TejasJogi&repo=Authentication-API-Django-MongoDB&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div></br></br></br></br></br></br></br></br></br></br>
 
 
 <h2 align="Left">Contact me</h2>
