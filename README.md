@@ -46,7 +46,7 @@
 <div width="100%" align="center"><a href="https://github.com/TejasJogi/Library-Management-System-Django-MYSQL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TejasJogi&repo=Library-Management-System-Django-MYSQL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></br>
 <a href="https://github.com/TejasJogi/Weather-Forcast-API-Using-ZIPCode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TejasJogi&repo=Weather-Forcast-API-Using-ZIPCode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></br>
 <a href="https://github.com/TejasJogi/Authentication-API-Django-MongoDB" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TejasJogi&repo=Authentication-API-Django-MongoDB&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/TejasJogi/Python-Problems" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TejasJogi&repo=Authentication-API-Django-MongoDB&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/TejasJogi/Python-Problems" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TejasJogi&repo=Python-Problems&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div></br></br></br></br></br></br></br></br></br></br>
 
 
