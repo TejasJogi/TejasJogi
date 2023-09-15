@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 My name is Tejas Jogi</h1>
 <h2 align="center"> I am a Softwre Devloper from India.</h2>
 <h2 align="center">Practicing Data Structure</h2>
-<h2 align="center">Today trying to solve Kitty's Calcultion on tree. ths is a hacker rank proble on Tree data structure.</h2>
+<h2 align="center">Today trying to solve Kitty's Calcultion on tree. ths is a hacker rank proble on Tree data structure.
+It's preety hard</h2>
 
 <h2 align="Left">Languages And Tools</h2>
 
